@@ -1,0 +1,12 @@
+.pr-display-drop{
+    display: block;
+    height: 70px;
+    padding: 40px;
+    text-align: center;
+    color: rgb(106, 106, 106);
+}
+.pr-Hide-drop{
+opacity: 0;
+padding: 7px;
+margin: -15px 0px;
+}
